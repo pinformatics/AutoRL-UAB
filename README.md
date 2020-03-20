@@ -1,4 +1,4 @@
-# AutoRL-UAB
+# AutoRL-Trained Model
 
 A trained model for automatic record linkage. Using this open-source code, you can apply our model on your data.
 
